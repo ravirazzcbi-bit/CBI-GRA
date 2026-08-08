@@ -1,0 +1,97 @@
+# Ignore patterns for CBI-GRA Android project
+
+# Gradle files
+.gradle
+build/
+*.apk
+*.ap_
+*.aab
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+.DS_Store
+
+# Android Profiler and related
+captures/
+.externalNativeBuild/
+.cxx/
+
+# NDK
+obj/
+
+# Lint and FindBugs results
+lint-results*.xml
+findbugs-results*.xml
+
+# Generated files
+gen/
+.generated
+*.class
+*.jar
+*.war
+
+# Signing
+*.keystore
+*.jks
+*.key
+signing.properties
+
+# Local environment
+.env
+.env.local
+local.properties.gpg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Test coverage
+coverage/
+*.ec
+*.exec
+
+# Firebase
+google-services.json
+
+# Secrets
+secrets/
+.secrets
+
+# Reports
+reports/
+*.html
+
+# Device database backups (local dev only)
+*.db.bak
+*.db.backup
+
+# Exported reports and data (sensitive)
+exports/
+reports/
+*.csv
+*.xlsx
+
+# Large files
+*.zip
+*.tar.gz
+*.iso
+
+# Node modules (if using any build tools)
+node_modules/
+
+# Keep important config examples
+!example.env
+!example-signing.properties
