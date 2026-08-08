@@ -1,0 +1,47 @@
+# License
+
+## CBI Gauripur Recovery App (CBI-GRA)
+
+This software is proprietary and confidential. It is intended for internal use by the Central Bank of India - Gauripur Branch only.
+
+### Rights and Restrictions
+
+**You are NOT permitted to:**
+- ✗ Copy, modify, or distribute this software without explicit written permission from Central Bank of India
+- ✗ Use this software for commercial purposes outside of Central Bank of India
+- ✗ Reverse engineer, disassemble, or decompile the software
+- ✗ Remove or alter any copyright notices, license notices, or proprietary notices
+- ✗ Deploy this software on systems outside of Central Bank of India
+- ✗ Share source code or binaries with unauthorized third parties
+
+**You ARE permitted to:**
+- ✓ Use the software for authorized recovery operations within the Gauripur Branch
+- ✓ Modify code for internal improvements (with approval)
+- ✓ Report issues and suggest features
+- ✓ Contribute to development (via pull requests)
+
+### Intellectual Property
+
+All code, documentation, and associated materials are the exclusive property of Central Bank of India. All rights are reserved.
+
+### Liability Disclaimer
+
+This software is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall Central Bank of India be liable for any claim, damages, or other liability arising from the use of this software.
+
+### Data Privacy
+
+This software handles sensitive borrower data. Users must comply with all applicable data protection laws and CBI policies regarding data handling, storage, and confidentiality.
+
+### Terms of Use
+
+1. **Authorized Use Only**: This software is licensed solely for use by authorized Central Bank of India personnel engaged in recovery operations.
+2. **Confidentiality**: All data accessed through this software must be treated as confidential.
+3. **No Sublicensing**: You may not sublicense or transfer rights to third parties.
+4. **Compliance**: Use must comply with CBI policies and applicable laws.
+5. **Termination**: License is automatically terminated upon termination of employment or authorization.
+
+---
+
+**Copyright © 2024 Central Bank of India. All Rights Reserved.**
+
+For licensing inquiries, contact the Central Bank of India - Gauripur Branch.
